@@ -4,6 +4,9 @@
 library(DeclareDesign)
 library(tidyverse)
 
+
+##Taken from https://declaredesign.org/library/articles/pretest_posttest.html
+
 N <- 100
 ate <- 0.25
 sd_1 <- 1
